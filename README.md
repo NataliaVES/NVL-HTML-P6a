@@ -2,9 +2,6 @@
 Necesitamos crear una lista con la clasificación de los equipos de La Liga de Fútbol nacional. Resuélvelo de la mejor manera posible.
 
 
-
-
-
 <!DOCTYPE html> 
 <html lang="es"> 
 
@@ -25,7 +22,6 @@ Necesitamos crear una lista con la clasificación de los equipos de La Liga de F
 
 
 <body>
-
 
 <h2><u>Clasificación Primer División</u></h2>
 
